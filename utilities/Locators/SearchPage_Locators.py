@@ -1,0 +1,7 @@
+SignIn = "//*[@id='header']/div[2]/div/div/nav/div[1]/a"
+Email = "email"
+Password = "passwd"
+Submit = "SubmitLogin"
+SearchBox = "search_query_top"
+SearchBtn = "//*[@id='searchbox']/button"
+Assertion = "//*[@id='center_column']/h1/span[1]"
